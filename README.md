@@ -13,7 +13,7 @@
     <P><span class="texto-inglês">Cascading Style Sheets</span> (em português, Folhas de Estilo em Cascata) cria estilos personalizados da sua página web.</P> <section>
         <img src ="imagem/prog_languages.jpg" alt="Imagem com textos coloridos referentes as linguagens de programacao para a web">
     
-    </section> <footer>    <P>Uma página desenvolvida por Prof. Carlos</P>
+    </section> <footer>    <P>Uma página desenvolvida por Marcos Paulo</P>
     
         
     </footer>
